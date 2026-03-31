@@ -199,10 +199,3 @@ export async function action({ request }) {
 }
 
 export default CreateOrder;
-
-
-//
-// 1. CreateOrder component with form to create new order
-// 2. Form with fields: customer name, phone, address, priority
-// 3. Validation for phone number
-// 4. On submit create new order and redirect to order details page
