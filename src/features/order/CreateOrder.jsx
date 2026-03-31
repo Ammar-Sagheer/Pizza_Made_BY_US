@@ -199,3 +199,7 @@ export async function action({ request }) {
 }
 
 export default CreateOrder;
+
+// TODO: add validation for phone number and address, and show error message if there is an error
+//
+//hello
